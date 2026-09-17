@@ -1,0 +1,11 @@
+{
+  "kuzarei": {
+    "password": "eeea2f3f840f6b99875a324ea9b8c8cbfb526fe3acb203d0efdbcdf5245fb308",
+    "role": "admin",
+    "email": "kuzarei@example.com",
+    "failed_attempts": 0,
+    "locked": false,
+    "last_login": "2026-08-05T07:03:55.249292",
+    "created_at": "2026-08-05T07:01:29.951259"
+  }
+}
