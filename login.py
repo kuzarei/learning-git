@@ -369,6 +369,7 @@ def main():
             print("3. Admin Panel")
             print("4. Logout")
             print("5. Exit")
+            print("This is Version 2 of the script!")
             
             choice = input("\nChoose option (1-5): ").strip()
             
